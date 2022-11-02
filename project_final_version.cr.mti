@@ -1,0 +1,99 @@
+/home/root1/Verilog/Final_Project/Final_Version/Decompressor.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/Decompressor.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module decompressor
+
+Top level modules:
+	decompressor
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/ImmediateGenerator.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/ImmediateGenerator.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module ImmGen
+
+Top level modules:
+	ImmGen
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/Alu.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/Alu.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module alu
+
+Top level modules:
+	alu
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/Mux.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/Mux.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module mux
+
+Top level modules:
+	mux
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/Top.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/Top.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/DataMemory.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/DataMemory.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module DataMem
+
+Top level modules:
+	DataMem
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/InstructionMemory.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/InstructionMemory.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module InstMemory
+
+Top level modules:
+	InstMemory
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/PC.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/PC.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module pcPlus4
+
+Top level modules:
+	pcPlus4
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/FlipFlop.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/FlipFlop.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module flipflop
+
+Top level modules:
+	flipflop
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/mux3.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/mux3.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module mux3
+
+Top level modules:
+	mux3
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/BranchComparator.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/BranchComparator.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module branch_comp
+
+Top level modules:
+	branch_comp
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/RegFile.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/RegFile.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/TestBench.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/TestBench.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module tb
+
+Top level modules:
+	tb
+
+} {} {}} /home/root1/Verilog/Final_Project/Final_Version/ControlUnit.sv {1 {vlog -work work -vopt -sv -stats=none /home/root1/Verilog/Final_Project/Final_Version/ControlUnit.sv
+Questa Intel Starter FPGA Edition-64 vlog 2021.2 Compiler 2021.04 Apr 14 2021
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}}
